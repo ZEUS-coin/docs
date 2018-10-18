@@ -1,3 +1,9 @@
 {
-  "docs-api": {}
+  "docs-api": {
+      "CROWDFUND":
+      [
+        "crowdfund_validation_HolderCrowdfund",
+        "crowdfund_Crowdfund"
+      ]
+  }
 }
