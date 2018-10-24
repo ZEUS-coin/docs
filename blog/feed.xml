@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Zeus Docs Blog</title>
+        <link>https://zeus-coin.github.io/docs/blog</link>
+        <description>The best place to stay up-to-date with the latest Zeus Docs news and events.</description>
+        <lastBuildDate>Thu, 01 Jan 1970 00:00:00 GMT</lastBuildDate>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
+        <image>
+            <title>Zeus Docs Blog</title>
+            <url>https://zeus-coin.github.io/docs/img/zeus_logo.png</url>
+            <link>https://zeus-coin.github.io/docs/blog</link>
+        </image>
+        <copyright>Copyright © 2018 ZeusFundme</copyright>
+        <item>
+            <title><![CDATA[HolderCrowdfund]]></title>
+            <link>https://zeus-coin.github.io/docs/blog/2018/25/10/HolderCrowdfund.html</link>
+            <guid>https://zeus-coin.github.io/docs/blog/2018/25/10/HolderCrowdfund.html</guid>
+            <pubDate>Thu, 01 Jan 1970 00:00:00 GMT</pubDate>
+            <description><![CDATA[<p>Zeus Token power all the crowdfunds in the Zeus Network that can be viewed in Zeus platform. In Zeus platform, all the causes are showed and their data is fetched directly from the blockchain. In order to be able to start a campaign, the user must be ...</p>]]></description>
+        </item>
+    </channel>
+</rss>
