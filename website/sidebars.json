@@ -4,6 +4,10 @@
       [
         "crowdfund_validation_HolderCrowdfund",
         "crowdfund_Crowdfund"
+      ],
+      "TEMPLATES":
+      [
+        "templates_HolderCrowdfundTemplate"
       ]
   }
 }

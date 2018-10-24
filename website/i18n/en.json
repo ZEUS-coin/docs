@@ -26,6 +26,18 @@
       "enzeppelin-solidity_contracts_token_ERC20_SafeERC20": {
         "title": "SafeERC20"
       },
+      "lin-solidity_contracts_math_SafeMath": {
+        "title": "SafeMath"
+      },
+      "lin-solidity_contracts_token_ERC20_ERC20": {
+        "title": "ERC20"
+      },
+      "lin-solidity_contracts_token_ERC20_IERC20": {
+        "title": "IERC20"
+      },
+      "lin-solidity_contracts_token_ERC20_SafeERC20": {
+        "title": "SafeERC20"
+      },
       "Migrations": {
         "title": "Migrations"
       },
@@ -34,11 +46,17 @@
       },
       "mocks_HolderCrowdfundMock": {
         "title": "HolderCrowdfundMock"
+      },
+      "templates_HolderCrowdfundTemplate": {
+        "title": "HolderCrowdfundTemplate"
       }
     },
-    "links": {},
+    "links": {
+      "Blog": "Blog"
+    },
     "categories": {
-      "CROWDFUND": "CROWDFUND"
+      "CROWDFUND": "CROWDFUND",
+      "TEMPLATES": "TEMPLATES"
     }
   },
   "pages-strings": {
