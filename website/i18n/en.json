@@ -8,8 +8,14 @@
       "crowdfund_Crowdfund": {
         "title": "Crowdfund"
       },
+      "crowdfund_distribution_CrowdfundFee": {
+        "title": "CrowdfundFee"
+      },
       "crowdfund_TokenCrowdfund": {
         "title": "TokenCrowdfund"
+      },
+      "crowdfund_validation_FreezableCrowdfund": {
+        "title": "FreezableCrowdfund"
       },
       "crowdfund_validation_HolderCrowdfund": {
         "title": "HolderCrowdfund"
@@ -29,6 +35,9 @@
       "lin-solidity_contracts_math_SafeMath": {
         "title": "SafeMath"
       },
+      "lin-solidity_contracts_ownership_Ownable": {
+        "title": "Ownable"
+      },
       "lin-solidity_contracts_token_ERC20_ERC20": {
         "title": "ERC20"
       },
@@ -46,6 +55,18 @@
       },
       "mocks_HolderCrowdfundMock": {
         "title": "HolderCrowdfundMock"
+      },
+      "templates_CrowdfundFeeFreezableTemplate": {
+        "title": "CrowdfundFeeFreezableTemplate"
+      },
+      "templates_CrowdfundFeeTemplate": {
+        "title": "CrowdfundFeeTemplate"
+      },
+      "templates_HoldCrowdFeeFreezableTemplate": {
+        "title": "HoldCrowdFeeFreezableTemplate"
+      },
+      "templates_HolderCrowdfundFeeTemplate": {
+        "title": "HolderCrowdfundFeeTemplate"
       },
       "templates_HolderCrowdfundTemplate": {
         "title": "HolderCrowdfundTemplate"

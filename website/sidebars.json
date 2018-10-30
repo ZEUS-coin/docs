@@ -3,11 +3,17 @@
       "CROWDFUND":
       [
         "crowdfund_validation_HolderCrowdfund",
+        "crowdfund_distribution_CrowdfundFee",
+        "crowdfund_validation_FreezableCrowdfund",
+        "templates_HolderCrowdfundFeeTemplate",
         "crowdfund_Crowdfund"
       ],
       "TEMPLATES":
       [
-        "templates_HolderCrowdfundTemplate"
+        "templates_HolderCrowdfundTemplate",
+        "templates_CrowdfundFeeTemplate",
+        "templates_HoldCrowdFeeFreezableTemplate",
+        "templates_HolderCrowdfundFeeTemplate"
       ]
   }
 }
